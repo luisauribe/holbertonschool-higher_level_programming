@@ -14,8 +14,8 @@ Import function from module:
 	>>> l = Mylist(20, 3, 8, 7)
        	>>> l. print_sorted()
        	[3, 7, 8, 20]
-	
-       	>>> l = Mylist()
+
+	>>> l = Mylist()
        	>>> l.print_sorted()
        	[]
 
